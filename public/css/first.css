@@ -5,6 +5,15 @@
     margin: 10px;
     background-color: orange;
     border: 2px solid orangered;
-     border-radius: 10px 20px 30px 20px;
+    /*border-radius: 10px 20px 30px 20px;*/
+    border-radius: 50%;
     /*border-top-left-radius: 33px;*/
+    background-image: url("../image/star.png");
+    background-size: cover;
+}
+
+.test2 {
+    background-color: rgba(255, 0, 0, 0.7);
+    border-radius: 10px 20px 30px 20px;
+    opacity: 0.3;
 }
